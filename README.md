@@ -1,3 +1,5 @@
+## This version uses "unlimitedStorage" permission to save background images bigger than 5MB. Use with discretion
+
 # BW New Tab Page
 Minimalist New Tab page extension. Supports all modern browsers.
 
